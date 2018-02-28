@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# MikesTravis Hello World
+#  Hello World
 =======
 # travis-broken-example
 
